@@ -57,8 +57,11 @@ Resources feature is still under development and will be launched soon
 ### Resource Page (Bubble Editor)
 ![Resource Page (Bubble Editor)](screenshots/Resource%20Page%20%28Bubble%20Editor%29.png)
 
-### Chat Page 2 (Bubble Editor)
-![Chat Page 2 (Bubble Editor)](screenshots/Chat%20Page%202%20%28Bubble%20Editor%29.png)
+### Resource Page 2 (Bubble Editor)
+![Resource Page 2 (Bubble Editor)](screenshots/Resource%20Page%202%20%28Bubble%20Editor%29.png)
+
+### Resource Page 3 (Bubble Editor)
+![Resource Page 3 (Bubble Editor)](screenshots/Resource%20Page%203%20%28Bubble%20Editor%29.png)
 
 ---
 

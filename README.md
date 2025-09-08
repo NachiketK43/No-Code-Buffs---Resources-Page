@@ -48,8 +48,11 @@ Resources feature is still under development and will be launched soon
 
 ## 📸 Screenshots 
 
-### Chat Page 
-![Chat Page](screenshots/Chat%20Page.png)
+### Resource Page 
+![Resource Page](screenshots/Resource%20Page.png)
+
+### Resource Page 2
+![Resource Page 2](screenshots/Resource%20Page%202.png)
 
 ### Chat Page (Bubble Editor)
 ![Chat Page (Bubble Editor)](screenshots/Chat%20Page%20%28Bubble%20Editor%29.png)
